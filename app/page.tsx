@@ -9,7 +9,7 @@ export default function Home() {
     <div className="container">
       <Header />
       <div className="ml-30 items-center">
-    <main className="flex min-h-screen flex-col items-center justify-center h-screen p-24">
+    <main className="flex-col items-center justify-items-center">
       <Hero />
       <Features />
       <Testimonials />

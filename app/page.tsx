@@ -9,7 +9,7 @@ export default function Home() {
     <div className="container">
       <Header />
       <div className="ml-30 items-center">
-    <main className="flex-col items-center justify-items-center">
+    <main className="flex-col items-center justify-items-center py-10 ml-24">
       <Hero />
       <Features />
       <Testimonials />
